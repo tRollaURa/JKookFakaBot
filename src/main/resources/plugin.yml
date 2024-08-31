@@ -1,0 +1,5 @@
+name: FakaBot
+version: 1.0
+description: "no"
+main: cn.trollaura.fakabot.Main
+api-version: 0.52.1

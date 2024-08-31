@@ -1,0 +1,39 @@
+#商户ID 及 商户密钥
+#目前仅支持HLCodePay
+#网址: https://hlcode.huluwl.com/
+CodeID: 1145
+CodeKey: 你好我是迷你世界开发者SuSRDev,你是不是想要窥视我的代码,你完了我要造谣你让你名声尽毁!
+#通知地址
+#如有需要可以填写
+#默认: https://www.kookapp.cn
+NotifyURL: https://www.kookapp.cn
+#回调地址
+#如有需要可以填写
+#默认: https://www.kookapp.cn
+ReturnURL: https://www.kookapp.cn
+
+#指令专区
+#指令前缀
+#默认: .
+CommandPrefix: .
+#虚拟币的名字
+#默认为信用点
+MoneyName: 信用点
+
+#数据专区
+#数据库类型
+#默认: json
+#暂时没写其他类型因为我懒得写
+DataBaseType: json
+
+#分类
+Categories:
+  - NFA
+  - Client
+  - StylesLua
+#管理员
+#需要KookID
+Admin:
+  - 676017841
+
+

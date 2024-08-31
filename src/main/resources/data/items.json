@@ -1,0 +1,14 @@
+[
+  {
+    "name": "VIP",
+    "ID": "1000",
+    "amount": 10.0,
+    "category": "NFA",
+    "keys": [
+      "123",
+      "456"
+    ],
+    "infor": "?",
+    "manually": false
+  }
+]
